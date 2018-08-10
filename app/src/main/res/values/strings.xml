@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">RTO Quiz</string>
+
+    <string name="title_activity_playing">Playing</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="answer_a">Answer A</string>
+    <string name="_1_30">1/30</string>
+    <string name="_0">0</string>
+    <string name="answer_d">Answer D</string>
+    <string name="answer_b">Answer B</string>
+    <string name="answer_c">Answer C</string>
+    <string name="todo">TODO</string>
+    <string name="score_0">Score : 0</string>
+    <string name="correct_0_10">Correct : 0/10</string>
+    <string name="try_again">TRY AGAIN</string>
+    <string name="toast_message">"1.   Enter your name for the quiz.
+
+ 2.   Enter your valid mail address.
+        eg:   abc@xyz.com
+
+ 3.   Now set your password for
+        security purpose.
+
+              Enjoy the app! ☺</string>
+    <string name="choose_the_correct_answer">Choose the correct answer</string>
+</resources>
